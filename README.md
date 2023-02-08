@@ -1,10 +1,10 @@
-Hello my name is Colton Morley and I am a senior in Computer Science/Engineering at the University of Nevada, Reno.  I plan to graduate in December of 2022.
+Hello my name is Colton Morley and I am Las Vegas based and will be earning my degree in Computer Science and Engineering from UNR in May of 2023
 
 Contact Information: 
 
-ColtonMorley@nevada.unr.edu
+ColtonMorley42@gmail.com
 
-702-418-6310
+
 
 [![Colton's github stats](https://github-readme-stats.vercel.app/api?username=coltonmorley&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
